@@ -29,6 +29,6 @@ To clarify:
 - Clarify the rationale of libsodium cryptobox versus Java's `import java.security.*` 
 
 Reference:
-    - https://stackoverflow.com/questions/42456624/how-can-i-create-or-open-a-libsodium-compatible-sealed-box-in-pure-java
-    - https://crypto.stackexchange.com/questions/60609/what-is-the-difference-between-a-sealed-box-and-a-normal-box-in-libsodium
-    - https://crypto.stackexchange.com/questions/52912/how-safe-are-libsodium-crypto-boxes
+- https://stackoverflow.com/questions/42456624/how-can-i-create-or-open-a-libsodium-compatible-sealed-box-in-pure-java
+- https://crypto.stackexchange.com/questions/60609/what-is-the-difference-between-a-sealed-box-and-a-normal-box-in-libsodium
+- https://crypto.stackexchange.com/questions/52912/how-safe-are-libsodium-crypto-boxes
